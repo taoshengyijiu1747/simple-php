@@ -1,0 +1,23 @@
+ul li.height_odd{
+    height: 50px;
+    background-color: #9aa5b1;
+    font-size: 25px;
+    list-style: none;
+    width: 900px;
+    margin-left: 0px;
+}
+ul li.height_even{
+    height: 50px;
+    background-color: white;
+    font-size:  25px;
+    list-style: none;
+    width: 900px;
+    margin-left: 0px;
+}
+
+ul li span.position{
+    margin-left: 170px;
+
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
